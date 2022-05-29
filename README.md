@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a herf="https://github.com/Anoop-Kumar-31">![github](https://github.com/Anoop-Kumar-31)
+<a herf="https://github.com/Anoop-Kumar-31">GITHUB
 </a>
