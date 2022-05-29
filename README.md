@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anoop Kumar</h1>
-<h3 align="center">Currently a undergraduate at Chandigarh University <whisper>First Year</whisper></h3>
+<h3 align="center"><b>Currently a undergraduate at Chandigarh University <i>First Year</i></b></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
