@@ -1,4 +1,4 @@
-<div style="align-items:center;">
+<div style="display: flex;align-items: center;justify-content: center;">
 <h1 align="center">Hi 👋, I'm Anoop Kumar</h1>
 <h3 align="center"><b>Currently an undergraduate at Chandigarh University <i>[First Year]</i></b></h3>
 
