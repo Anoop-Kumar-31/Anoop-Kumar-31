@@ -25,7 +25,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactJs" width="50" height="40"/> </a>
 <h4>DataBase:-</h4>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" alt="mysql" width="40" height="40"/> </a>
- <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="mysql" width="40" height="40"/> </a>
+ <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="mysql"  height="40"/> </a>
 <h4>Others:-</h4>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <i>Working on these</i>
