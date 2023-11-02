@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Anoop Kumar</h1>
-<h3 align="center"><b>Currently an undergraduate at Chandigarh University <i>[Second Year]</i></b></h3>
+<h3 align="center"><b>Currently an undergraduate at Chandigarh University <i>[Third Year]</i></b></h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
