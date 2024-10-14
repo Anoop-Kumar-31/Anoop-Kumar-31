@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Anoop Kumar</h1>
-<h3 align="center"><b>Currently an undergraduate at Chandigarh University <i>[Third Year]</i></b></h3>
+<h3 align="center"><b>Currently an undergraduate at Chandigarh University <i>[Fourth Year]</i></b></h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -23,6 +23,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactJs" width="50" height="40"/> </a>
+ <a href="https://nextjs.org/"><img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png" alt="NextJs" width="50" height="40"></a>
 <h4>DataBase:-</h4>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" alt="mysql" width="40" height="40"/> </a>
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="mysql"  height="40"/> </a>
