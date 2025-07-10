@@ -28,7 +28,7 @@
 
 ### 🚀 Languages & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,nodejs,html,css,js,react,nextjs,mysql,oracle,photoshop,blender" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,nodejs,html,css,js,react,nextjs,expressjs,mongodb,mysql,canva,figma,photoshop" alt="skills"/>
 </p>
 
 ---
@@ -46,12 +46,6 @@
 - Data Structures & Algorithms (Competitively)
 - Creative Designing (Photoshop, Blender)
 
----
-
-### ✨ Fun Fact:
-> *“A person is never defeated. Even after their death, their will carries on.”* 🔥
-
----
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=anoopkumar312002&label=Visitors&color=0e75b6&style=flat)
 </div>
