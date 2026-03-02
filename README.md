@@ -72,8 +72,8 @@ I build systems — not just projects.
 ---
 
 ## 📊 GitHub Stats
-![Anoop's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Anoop-Kumar-31&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anoop-Kumar-31&layout=compact&hide_border=true)
+![Anoop's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Anoop-Kumar-31&show_icons=true&hide_border=true&theme=react)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anoop-Kumar-31&layout=compact&hide_border=true&theme=react)
 
 ---
 
