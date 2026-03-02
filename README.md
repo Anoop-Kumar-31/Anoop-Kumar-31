@@ -1,17 +1,27 @@
 # Hi, I'm Anoop Kumar 👋
 
-Full-Stack Developer | Backend Architecture Enthusiast | UI/UX Focused Engineer  
+Full-Stack Developer | Frontend Systems & Backend Architecture Engineer  
 
-Building scalable systems and production-ready web applications.
+Building scalable full-stack applications with clean architecture, optimized APIs, and modern UI systems.
 
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anoop%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoop--kumar/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-amit312002-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/amit312002)
-[![Instagram](https://img.shields.io/badge/Instagram-@anoopkumar__ak31-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anoopkumar_ak31/)
-[![Facebook](https://img.shields.io/badge/Facebook-Ak312002-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Ak312002)
+[![GitHub](https://img.shields.io/badge/GitHub-Anoop--Kumar--31-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anoop-Kumar-31)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-kto7.onrender.com/)
+
+[![Email](https://img.shields.io/badge/Email-amt312002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amt312002@gmail.com)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Ak--31-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ak-31/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-amit312002-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/amit312002)
+
+[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-2EA043?style=for-the-badge)](#)
+[![Seeking Full Stack Roles](https://img.shields.io/badge/Seeking-Full%20Stack%20Roles-2563EB?style=for-the-badge)](#)
+
+[![Backend Architecture](https://img.shields.io/badge/Backend-Architecture-374151?style=for-the-badge)](#)
+[![Frontend Engineering](https://img.shields.io/badge/Frontend-Engineering-F97316?style=for-the-badge)](#)
 
 ---
 
@@ -19,16 +29,39 @@ Building scalable systems and production-ready web applications.
 
 Computer Science Graduate (2021–2025)
 
-I specialize in:
+I am a Full-Stack Developer focused equally on frontend experience engineering and backend system architecture.
 
-- Clean backend architecture
-- Role-based access systems
-- REST API design & optimization
+I build production-ready applications that are:
+
+- Scalable
+- Maintainable
+- Performance-optimized
+- Cleanly structured
+
+I care about both what users see and how systems work behind the scenes.
+
+---
+
+## 🎨 Frontend Expertise
+
+- Modern UI development using React & Next.js
+- Component-driven architecture
+- Responsive and accessible design
+- Performance optimization (lazy loading, code splitting)
+- Clean state management patterns
+- UI/UX consistency and design systems
+
+---
+
+## ⚙ Backend Expertise
+
+- RESTful API architecture
+- Role-Based Access Control (RBAC) systems
+- Middleware-based request handling
+- Database schema design & relationships
+- Authentication & authorization flows
 - Scalable folder structures
-- Modern UI/UX systems
 - Production deployment workflows
-
-I build systems — not just projects.
 
 ---
 
@@ -46,6 +79,7 @@ I build systems — not just projects.
 ![CSS](https://skillicons.dev/icons?i=css)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Vite](https://skillicons.dev/icons?i=vite)
 
 ### 🧠 Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
@@ -54,8 +88,8 @@ I build systems — not just projects.
 ### 🗄 Databases
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![Firebase](https://skillicons.dev/icons?i=firebase)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
 
 ### ☁ DevOps & Tools
@@ -63,7 +97,6 @@ I build systems — not just projects.
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
-![Vite](https://skillicons.dev/icons?i=vite)
 
 ### 🎨 Design & Presentation
 ![Figma](https://skillicons.dev/icons?i=figma)
@@ -72,6 +105,7 @@ I build systems — not just projects.
 ---
 
 ## 📊 GitHub Stats
+
 ![Anoop's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Anoop-Kumar-31&show_icons=true&hide_border=true&theme=react)
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anoop-Kumar-31&layout=compact&hide_border=true&theme=react)
 
@@ -79,11 +113,11 @@ I build systems — not just projects.
 
 ## 🚀 Current Focus
 
-- Advanced Backend Architecture  
-- Multi-Role System Design  
-- Middleware-Based Caching  
+- Advanced Full-Stack System Design  
+- Scalable Frontend Architecture  
 - API Performance Optimization  
-- System Design Mastery  
+- Clean Code & Production Standards  
+- Mastering System Design  
 
 ---
 
