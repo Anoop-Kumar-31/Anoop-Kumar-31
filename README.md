@@ -73,10 +73,11 @@ I build systems — not just projects.
 
 ## 📊 GitHub Stats
 
-![Anoop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anoop-Kumar-31&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop-Kumar-31&layout=compact&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anoop-Kumar-31&show_icons=true&hide_border=true&theme=react" alt="Anoop's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop-Kumar-31&layout=compact&hide_border=true&theme=react" alt="Top Languages" />
+</div>
 ---
 
 ## 🚀 Current Focus
