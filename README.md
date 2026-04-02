@@ -89,18 +89,18 @@
 ### Backend & Databases
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="filter: brightness(0) invert(0.9);" height="50" alt="express" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="filter: invert(0.9);" height="50" alt="express" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql" /> <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="50" alt="supabase" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" style="filter: brightness(2);" height="50" alt="prisma" /> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" style="filter: brightness(2);" height="50" alt="prisma" />
 </p>
 
 ## 🚀 <b>Featured Projects</b>
 
-<!-- ### QueueFlow — Real‑Time Task Queue & Team Collaboration Platform
+### QueueFlow — Real‑Time Task Queue & Team Collaboration Platform
 
 ![QueueFlow](Projects/ququeflow.png)
 
@@ -108,7 +108,7 @@
 
 <i>QueueFlow is a real-time project management platform built for modern development teams. It connects Project Managers, Developers, and Clients inside shared live workspaces — with drag-and-drop Kanban boards, sticky-note feedback, a workflow intelligence analytics engine, and a real-time activity feed, all syncing instantly via WebSockets without a page refresh.</i>
 
---- -->
+---
 
 ### NEXORA — Multi-Tenant Role-Based Company Restaurants Management & Analytics Platform
 
