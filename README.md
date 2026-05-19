@@ -8,12 +8,12 @@
 
 ## 🌐 <b>Connect With Me</b>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anoop%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoop--kumar/)
-[![GitHub](https://img.shields.io/badge/GitHub-Anoop--Kumar--31-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anoop-Kumar-31)
-[![Email](https://img.shields.io/badge/Email-amt312002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amt312002@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-kto7.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anoop%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoop--kumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-Anoop--Kumar--31-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Anoop-Kumar-31)
+[![Email](https://img.shields.io/badge/Email-amt312002%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amt312002@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-111827?style=flat-square&logo=vercel&logoColor=white)](https://myportfolio-kto7.onrender.com/)
 
-[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-2EA043?style=for-the-badge)](#)
+[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-2EA043?style=flat-square)](#)
 
 ---
 
@@ -60,33 +60,70 @@
 
 ---
 
-## 🛠 <b>Tech Stack</b>
+## 🛠 Tech Stack
 
-### Languages & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,git,github,gitlab,docker&perline=4" />
-  </a>
-</p>
+### 💻 Languages
 
-### Frontend & Design
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite,figma,ps&perline=4" />
-  </a>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=FFFFFF)
 
-### Backend & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,supabase,prisma&perline=4" />
-  </a>
-</p>
+### 🎨 Frontend
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Vite](https://img.shields.io/badge/Vite-1E1E2E?style=flat-square&logo=vite&logoColor=646CFF)
+![Figma](https://img.shields.io/badge/Figma-1E1E2E?style=flat-square&logo=figma&logoColor=F24E1E)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=FFFFFF)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=FFFFFF)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=FFFFFF)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=D63AFF)
+
+### 🗄️ Databases & Caching
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=FFFFFF)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=FFFFFF)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=FFFFFF)
+
+### 🚀 DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=FF6F00)
+
+---
 
 ## 🚀 <b>Featured Projects</b>
 
 ### QueueFlow — Real‑Time Task Queue & Team Collaboration Platform
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=D63AFF" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Figma-1E1E2E?style=flat-square&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=FFFFFF" />
+</p>
 
 ![QueueFlow](Projects/ququeflow.png)
 
@@ -97,6 +134,18 @@
 ---
 
 ### NEXORA — Multi-Tenant Role-Based Company Restaurants Management & Analytics Platform
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=D63AFF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Figma-1E1E2E?style=flat-square&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=FFFFFF" />
+</p>
 
 ![NEXORA](Projects/nexora.png)
 
@@ -111,6 +160,16 @@
 ---
 
 ### HeartBeat — Connecting Donors, Saving Lives and Finding Blood Banks
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Figma-1E1E2E?style=flat-square&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Mongoose-330000?style=flat-square&logo=mongoose&logoColor=FFFFFF" />
+</p>
 
 ![HeartBeat](Projects/heartbeat.png)
 
@@ -123,6 +182,13 @@
 ---
 
 ### The Secrets of CHIAROSCURO — Dark Fantasy Web Experience
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Figma-1E1E2E?style=flat-square&logo=figma&logoColor=F24E1E" />
+</p>
 
 ![The Secrets of CHIAROSCURO](Projects/tsocnovel.png)
 
