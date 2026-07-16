@@ -1,10 +1,7 @@
 
 # Hi, I'm Anoop Kumar 👋
-
 **Full-Stack Developer** — React · Next.js · Node.js · TypeScript
-
 <i>I ship production-grade systems with clean architecture, secure APIs, and performant UIs.</i>
-
 *Open to full-time backend/full-stack roles.*
 
 <a href="https://www.linkedin.com/in/anoop--kumar/"><img src="https://img.shields.io/badge/LinkedIn-Anoop_Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -12,17 +9,12 @@
 <a href="mailto:amt312002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://myportfolio-kto7.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Live-111827?style=flat-square&logo=vercel&logoColor=white"/></a>
 
----
-
 ## Shipped Work
-
 |Project  | Description |
 | :---: | --- |
 | <img src="https://github.com/Anoop-Kumar-31/Anoop-Kumar-31/blob/main/Projects/ququeflow.png" width="250"/> | **QueueFlow** — Real-Time Task Queue & Team Collaboration Platform<br><i>Built for modern teams to collaborate through live Kanban boards, workflow automation, and real-time updates.</i><br>**React • Node.js • Express.js • PostgreSQL • Prisma** • 🌐 [Live](https://queue-flow-rho.vercel.app/) |
 | <img src="https://github.com/Anoop-Kumar-31/Anoop-Kumar-31/blob/main/Projects/nexora.png" width="250"/> | **NEXORA** — Multi-Tenant Restaurant Analytics Platform<br><i>Enterprise-grade analytics dashboard with strict RBAC, tenant-scoped data isolation, and role-guarded routing.</i><br>**React • Node.js • Express.js • PostgreSQL • Sequelize** • 🌐 [Live](https://role-based-analytics-dashboard.vercel.app/) |
 | <img src="https://github.com/Anoop-Kumar-31/Anoop-Kumar-31/blob/main/Projects/heartbeat.png" width="250"/> | **HeartBeat** — Blood Donation Network<br><i>Connects donors with nearby blood banks through location-based search, request lifecycle management, and live availability.</i><br>**React • Node.js • Express.js • MongoDB** • 🌐 [Live](https://blood-management-system-frontend-rosy.vercel.app/) |
-
----
 
 ## Tech Stack
 
@@ -61,26 +53,12 @@
 <img width="35" src="https://img.shields.io/badge/-3ECF8E?style=flat-square&logo=supabase&logoColor=000000" />
 <img width="35" src="https://img.shields.io/badge/-FCC624?style=flat-square&logo=linux&logoColor=000000" />
 
----
-
 ## How I Build
-
 - **Architecture-first** — data models, auth flows, and API contracts before writing code
 - **Full ownership** — I ship complete features end-to-end, not just frontend or backend slices
 - **Security by default** — RBAC, input validation, and token refresh built in, not bolted on
 - **Performance-minded** — DB indexing, query optimization, caching strategies, lazy loading
-
----
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Anoop-Kumar-31&show_icons=true&hide_border=true&theme=react"/>
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anoop-Kumar-31&layout=compact&hide_border=true&theme=react"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anoop-Kumar-31&theme=react&hide_border=true"/>
-</p>
-
+  
 ---
 
 <p align="center"><i>Thanks for visiting — if something here resonates, let's talk.</i></p>
