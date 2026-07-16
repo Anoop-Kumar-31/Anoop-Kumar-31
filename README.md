@@ -16,7 +16,7 @@
 
 ## Shipped Work
 
-| | |
+|Project  | Description |
 | :---: | --- |
 | <img src="https://github.com/Anoop-Kumar-31/Anoop-Kumar-31/blob/main/Projects/ququeflow.png" width="250"/> | **QueueFlow** — Real-Time Task Queue & Team Collaboration Platform<br><i>Built for modern teams to collaborate through live Kanban boards, workflow automation, and real-time updates.</i><br>**React • Node.js • Express.js • PostgreSQL • Prisma** • 🌐 [Live](https://queue-flow-rho.vercel.app/) |
 | <img src="https://github.com/Anoop-Kumar-31/Anoop-Kumar-31/blob/main/Projects/nexora.png" width="250"/> | **NEXORA** — Multi-Tenant Restaurant Analytics Platform<br><i>Enterprise-grade analytics dashboard with strict RBAC, tenant-scoped data isolation, and role-guarded routing.</i><br>**React • Node.js • Express.js • PostgreSQL • Sequelize** • 🌐 [Live](https://role-based-analytics-dashboard.vercel.app/) |
